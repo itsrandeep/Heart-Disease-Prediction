@@ -19,7 +19,7 @@ I would recommend to create a new virtual environment as it's always a good prac
 
 ### Installation
 
-1. Clone the repo OR if you wanna make contributions then fork the repo and clone from your forked repo.
+1. Clone the repo
    ```sh
    git clone https://github.com/itsrandeep/Heart-Disease-Prediction.git
    ```
